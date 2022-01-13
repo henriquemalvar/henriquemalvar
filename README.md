@@ -4,25 +4,41 @@
 
 ### :boy: Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+<!-- - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software. -->
+
 - 🎓 Estudando Engenharia de Computação na [UFOP](https://ufop.br)
 
 ### :rocket: Minhas Skills
 
-**Aplicações e Dados**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Henrique-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Henrique-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  </div><br>
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+### :book: Estudando
 
-**DevOps**
+<div style="display: inline_block"><br>
+    <img align="center" alt="Henrique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Henrique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <br>
+    <br>
+    <img align="center" alt="Henrique-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+    <img align="center" alt="Henrique-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+    <br>
+</div><br>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<!-- ### Para falar comigo:
+<div>
+  <a href="https://instagram.com/henrique_malvar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatohenriquemalvar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/henriquemalvar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-**Ferramentas de Desenvolvimento**
+</div> -->
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
-[![card](https://github-readme-stats.vercel.app/api?username=henriquemalvar&theme=dracula&show_icons=true&=white)](https://github.com/henriquemalvar)
+[![card](https://github-readme-stats.vercel.app/api?username=henriquemalvar&theme=dracula&show_icons=true&=white&count_privat)](https://github.com/henriquemalvar)
 
 [![card](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemalvar&hide=html&layout=compact=true&theme=dracula)](https://github.com/henriquemalvar/)
