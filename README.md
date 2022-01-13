@@ -4,8 +4,6 @@
 
 ### :boy: Sobre mim
 
-<!-- - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software. -->
-
 - 🎓 Estudando Engenharia de Computação na [UFOP](https://ufop.br)
 
 ### :rocket: Minhas Skills
@@ -31,14 +29,6 @@
     <br>
 </div><br>
 
-<!-- ### Para falar comigo:
-<div>
-  <a href="https://instagram.com/henrique_malvar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatohenriquemalvar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henriquemalvar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-</div> -->
-
 [![card](https://github-readme-stats.vercel.app/api?username=henriquemalvar&theme=dracula&show_icons=true&=white&count_privat)](https://github.com/henriquemalvar)
 
-[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemalvar&hide=html&layout=compact=true&theme=dracula)](https://github.com/henriquemalvar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemalvar&theme=dracula)](https://github.com/henriquemalvar)
