@@ -33,6 +33,6 @@
 </div>
 <br>
 
-[![card](https://github-readme-stats.vercel.app/api?username=henriquemalvar&theme=dracula&show_icons=true&=white&count_privat)](https://github.com/henriquemalvar)
+[![card](https://github-readme-stats.vercel.app/api?username=henriquemalvar&theme=dracula&show_icons=true&=white)](https://github.com/henriquemalvar)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemalvar&theme=dracula)](https://github.com/henriquemalvar)
