@@ -41,4 +41,4 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=henriquemalvar&theme=dracula&show_icons=true&=white&count_privat)](https://github.com/henriquemalvar)
 
-[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemalvar&hide=html&layout=compact=true&theme=dracula)](https://github.com/henriquemalvar/)
+[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemalvar&hide=html&layout=compact=true&theme=dracula)](https://github.com/henriquemalvar)
