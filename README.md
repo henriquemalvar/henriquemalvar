@@ -1,33 +1,29 @@
-# Olá, meu nome é Henrique
+# :wave: Hi, I'm Henrique!
 
-### :boy: Sobre mim
+### :boy: About me
+:wrench: Currently working as a junior fullstack web developer at [Lytex](https://lytex.com.br/?gclid=CjwKCAjw3POhBhBQEiwAqTCuBqxqDKxdWs898hafPGInpUYQt0G-PmLH3TOAZa67H-b0VrOFj7Y_YBoCc_EQAvD_BwE).  
+:computer: Technologies I use: Angular, NodeJS, and MongoDB.  
+:books: Studying Computer Engineering at [UFOP](https://ufop.br).  
+:seedling: Learning about mobile development with Dart and Flutter.  
+:zap: Fun fact: I love learning about emerging technologies and applying them to innovative projects.  
+:video_game: Hobbies: Playing games, watching movies, series, and animes.  
 
-- 🎓 Estudando Engenharia de Computação na [UFOP](https://ufop.br)
+### :hammer: Skills
+- Technical: JavaScript, TypeScript, Angular, NodeJS, MongoDB, Git, Dart, Flutter.
+- Soft: Teamwork, Problem-solving.
 
-### :rocket: Minhas Skills
+<!-- ### :trophy: Projects
+- [Project 1](https://github.com/username/project1): A brief description of Project 1. -->
 
-<a href="https://github.com/henriquemalvar">
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Henrique-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="Henrique-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  </div>
-</a>
-<br>
-<a href="https://github.com/henriquemalvar">
-      <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Henrique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-      <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </a>
-<br>
+### :globe_with_meridians: Languages
+- English: Intermediate
+- Portuguese: Native
 
-### :book: Estudando
-<div style="display: inline_block"><br>
-    <a href="https://github.com/henriquemalvar">
-    <img align="center" alt="Henrique-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-    <img align="center" alt="Henrique-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-    </a>
-    <br>
-</div>
-<br>
+
+### :bar_chart: GitHub Stats
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquemalvar&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)
+
+### :mailbox: How to reach me
+:email: [henriquemmalvar@gmail.com](mailto:henriquemmalvar@gmail.com)  
+:link: [LinkedIn](https://www.linkedin.com/in/henriquemalvar/)  
+
