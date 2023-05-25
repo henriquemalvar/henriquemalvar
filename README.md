@@ -20,8 +20,8 @@
 - Portuguese: Native
 
 
-### :bar_chart: GitHub Stats
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquemalvar&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)
+<!-- ### :bar_chart: GitHub Stats -->
+<!-- ![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquemalvar&show_icons=true&theme=radical&count_private=true&hide=issues,contribs) -->
 
 ### :mailbox: How to reach me
 :email: [henriquemmalvar@gmail.com](mailto:henriquemmalvar@gmail.com)  
