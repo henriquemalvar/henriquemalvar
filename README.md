@@ -6,7 +6,7 @@
 :books: Studying Computer Engineering at [UFOP](https://ufop.br).  
 :seedling: Learning about mobile development with Dart and Flutter.  
 :zap: Fun fact: I love learning about emerging technologies and applying them to innovative projects.  
-:video_game: Hobbies: Playing games, watching movies, series, and animes.  
+:video_game: Hobbies: Playing games, watching movies, series and animes.  
 
 ### :hammer: Skills
 - Technical: JavaScript, TypeScript, Angular, NodeJS, MongoDB, Git, Dart, Flutter.
