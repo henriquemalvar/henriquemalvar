@@ -22,10 +22,7 @@
 
 <!-- ### :bar_chart: GitHub Stats -->
 <!-- ![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquemalvar&show_icons=true&theme=radical&count_private=true&hide=issues,contribs) -->
-<div>
-<a href="https://github.com/henriquemalvar">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemalvar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 ### :mailbox: How to reach me
 :email: [henriquemmalvar@gmail.com](mailto:henriquemmalvar@gmail.com)  
