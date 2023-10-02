@@ -1,7 +1,7 @@
 # :wave: Hi, I'm Henrique!
 
 ### :boy: About me
-:wrench: Currently working as a fullstack web developer at [Lytex](https://lytex.com.br/?gclid=CjwKCAjw3POhBhBQEiwAqTCuBqxqDKxdWs898hafPGInpUYQt0G-PmLH3TOAZa67H-b0VrOFj7Y_YBoCc_EQAvD_BwE).  
+<!-- :wrench: Currently working as a fullstack web developer at [Lytex](https://lytex.com.br/?gclid=CjwKCAjw3POhBhBQEiwAqTCuBqxqDKxdWs898hafPGInpUYQt0G-PmLH3TOAZa67H-b0VrOFj7Y_YBoCc_EQAvD_BwE). -->
 :computer: Technologies I use: Angular, NodeJS, and MongoDB.  
 :books: Studying Computer Engineering at [UFOP](https://ufop.br).  
 :seedling: Learning about mobile development with Dart and Flutter.  
